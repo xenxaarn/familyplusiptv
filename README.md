@@ -27,19 +27,31 @@ Copy and paste this URL into any M3U-compatible player:
 
 https://raw.githubusercontent.com/xenxaarn/familyplusiptv/main/familyplus.m3u
 
-### Option 2: Open in VLC
+### For android it is highly recommended to use this opensourced app to play the m3u link Download the latest release in the repo :
 
-vlc https://raw.githubusercontent.com/xenxaarn/familyplusiptv/main/familyplus.m3u
+https://github.com/oxyroid/M3UAndroid
 
-If your using pc version of VLC Press Ctrl + L to open the playlist sidebar and browse by category.
+- Open m3uandroid app "m3u"
+- copy the link https://raw.githubusercontent.com/xenxaarn/familyplusiptv/main/familyplus.m3u
+- click the "+" icon
+- Paste clipbord or if you want to paste manually paste into the playlist link
+- Click "SUBSCRIBE"
+- you might need to restart your app and try it one more time
 
-### Option 3: TiviMate / Smart IPTV
+### For pc linux, macos, windows
+- Open vlc app
+- Media
+- Open Network Streme
+- Network
+- paste https://raw.githubusercontent.com/xenxaarn/familyplusiptv/main/familyplus.m3u
+- Press Ctrl + L to open the playlist
 
-1. Open your IPTV app.
-2. Add a new playlist.
-3. Paste the URL above.
-4. The channels will automatically appear in their respective groups.
-
+### For iphone vlc just works fine 
+- Open vlc
+- Browse
+- Open Network Streme
+- paste https://raw.githubusercontent.com/xenxaarn/familyplusiptv/main/familyplus.m3u
+- Playlist 
 
 ## Updates
 
